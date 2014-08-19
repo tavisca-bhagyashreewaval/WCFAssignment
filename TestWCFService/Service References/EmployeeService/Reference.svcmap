@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="4d72aed8-cba9-407c-9a41-9c96a6a7e609" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49341/EmployeeOperationImplementation.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="EmployeeOperationImplementation.xsd" MetadataType="Schema" ID="07157900-5172-4aa7-87f7-4215598e1a93" SourceId="1" SourceUrl="http://localhost:49341/EmployeeOperationImplementation.svc?xsd=xsd2" />
+    <MetadataFile FileName="EmployeeOperationImplementation.disco" MetadataType="Disco" ID="7dae25fc-d2fa-4471-b6b7-033f4ddaef04" SourceId="1" SourceUrl="http://localhost:49341/EmployeeOperationImplementation.svc?disco" />
+    <MetadataFile FileName="EmployeeOperationImplementation1.xsd" MetadataType="Schema" ID="b764430e-287c-48e5-a55f-696153670187" SourceId="1" SourceUrl="http://localhost:49341/EmployeeOperationImplementation.svc?xsd=xsd3" />
+    <MetadataFile FileName="EmployeeOperationImplementation2.xsd" MetadataType="Schema" ID="8a83d7ca-728c-4772-88b5-54a6402d1434" SourceId="1" SourceUrl="http://localhost:49341/EmployeeOperationImplementation.svc?xsd=xsd1" />
+    <MetadataFile FileName="EmployeeOperationImplementation3.xsd" MetadataType="Schema" ID="e4d031f4-005b-422a-87cd-cf430ac87539" SourceId="1" SourceUrl="http://localhost:49341/EmployeeOperationImplementation.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceImplemtation.wsdl" MetadataType="Wsdl" ID="17c322fd-35d9-4f6a-94c1-74ec21da1fdc" SourceId="1" SourceUrl="http://localhost:49341/EmployeeOperationImplementation.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

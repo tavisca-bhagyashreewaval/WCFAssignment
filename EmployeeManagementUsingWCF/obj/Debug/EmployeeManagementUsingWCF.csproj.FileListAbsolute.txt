@@ -1,0 +1,4 @@
+E:\Added test cases for Handler\blue-repo\c#\web-server\BlueWebServer\EmployeeManagementUsingWCF\EmployeeManagementUsingWCF\bin\EmployeeManagementUsingWCF.dll
+E:\Added test cases for Handler\blue-repo\c#\web-server\BlueWebServer\EmployeeManagementUsingWCF\EmployeeManagementUsingWCF\bin\EmployeeManagementUsingWCF.pdb
+E:\Added test cases for Handler\blue-repo\c#\web-server\BlueWebServer\EmployeeManagementUsingWCF\EmployeeManagementUsingWCF\obj\Debug\EmployeeManagementUsingWCF.dll
+E:\Added test cases for Handler\blue-repo\c#\web-server\BlueWebServer\EmployeeManagementUsingWCF\EmployeeManagementUsingWCF\obj\Debug\EmployeeManagementUsingWCF.pdb
