@@ -63,16 +63,8 @@ namespace EmployeeManagementUsingWCF
             set;
         }
 
-        //private List<String> newList;
-        //  [DataMember]
-        //public List<String> Remarks
-        //{
-        //    get { return newList; }
-        //    set { newList = value; }
-        //}
-
+  
       [DataMember]
         public List<String> Remarks = new List<String>();
-        //public StringBuilder Remarks = new StringBuilder();
     }
 }
